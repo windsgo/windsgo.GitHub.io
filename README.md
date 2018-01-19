@@ -4,4 +4,4 @@
 <br/>
 这里是我的小黑房，来愉快的玩耍吧^.^
 <br/>
-![](https://github.com/windsgo/windsgo.github.io/raw/master/smalltype.JPG)
+![](https://github.com/windsgo/windsgo.github.io/smalltype.JPG)
