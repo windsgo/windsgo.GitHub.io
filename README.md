@@ -7,5 +7,5 @@
 <embed src="//music.163.com/style/swf/widget.swf?sid=26464078&type=2&auto=1&width=320&height=66" width="340" height="86"  allowNetworking="all">
 <br/>
 
-[杂](https://htmlpreview.github.io/?https://github.com/windsgo/windsgo.github.io/blob/master/_blog/2018_1_19.html)</br>
+[杂](https://htmlpreview.github.io/?https://github.com/windsgo/windsgo.github.io/blob/master/_blog/2018_1_19.html)
 `2018-01-19 19:50`
