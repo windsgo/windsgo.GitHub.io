@@ -5,3 +5,6 @@
 <br/>
 这里是我的小黑房，来愉快的玩耍吧^.^
 <embed src="//music.163.com/style/swf/widget.swf?sid=26464078&type=2&auto=1&width=320&height=66" width="340" height="86"  allowNetworking="all">
+
+
+[杂](https://github.com/windsgo/windsgo.github.io/raw/master/blog/2018/1/19/2018_1_19)
